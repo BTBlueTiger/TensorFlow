@@ -1,0 +1,2 @@
+!wget -q http://data.vision.ee.ethz.ch/ihnatova/camera_scene_detection_train.zip
+!unzip -qq camera_scene_detection_train.zip
